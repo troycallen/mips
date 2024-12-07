@@ -1,2 +1,2 @@
 # mips
-MIPS practice 
+old MIPS practice 
